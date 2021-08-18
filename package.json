@@ -1,13 +1,13 @@
 {
-  "name": "ii-admin-base",
-  "version": "1.4.1",
+  "name": "lc-admin-ui-base",
+  "version": "1.0.0",
   "private": false,
   "main": "lib/index.js",
   "module": "es/index.js",
   "unpkg": "dist/index.umd.min.js",
   "types": "dist/index.d.ts",
-  "description": "A library of react components, which mainly stores components that can be reused by all business lines of AI-Indeeded Company.",
-  "author": "ShiMu",
+  "description": "一个react组件库,二次封装antd的拓展组件库,react + antd + dumi",
+  "author": "lc",
   "license": "MIT",
   "keywords": [
     "React",
@@ -27,7 +27,7 @@
   "homepage": "https://lagrangelabs.github.io/ii-admin-base",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LagrangeLabs/ii-admin-base.git"
+    "url": "https://github.com/lcyh/lc-admin-ui-base.git"
   },
   "files": [
     "dist",

@@ -7,4 +7,5 @@ export { default as ISelectTree } from './i-select-tree';
 export { default as CodeMirror } from './code-mirror';
 export { default as CronInput } from './cron-input';
 export { default as PolylineDynamic } from './polyline-dynamic';
+export { default as TestOne } from './test-one';
 // export { default as ImageCarousel } from './ImageCarousel';
