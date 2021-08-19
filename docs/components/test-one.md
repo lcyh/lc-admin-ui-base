@@ -9,7 +9,7 @@ Demo:
 ```tsx
 import React from 'react';
 
-import { TestOne } from 'ii-admin-base';
+import { TestOne } from 'lc-admin-ui-base';
 
 export default () => {
   const inputStyle = {

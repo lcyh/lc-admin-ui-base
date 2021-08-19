@@ -9,7 +9,7 @@ Demo:
 ```tsx
 import React from 'react';
 import { Button } from 'antd';
-import { IUpload } from 'ii-admin-base';
+import { IUpload } from 'lc-admin-ui-base';
 
 export default () => {
   return (

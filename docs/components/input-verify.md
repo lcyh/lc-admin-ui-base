@@ -8,7 +8,7 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { InputVerify } from 'ii-admin-base';
+import { InputVerify } from 'lc-admin-ui-base';
 
 export default () => (
   <InputVerify

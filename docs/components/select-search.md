@@ -8,7 +8,7 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { SelectSearch } from 'ii-admin-base';
+import { SelectSearch } from 'lc-admin-ui-base';
 
 export default () => (
   <SelectSearch
