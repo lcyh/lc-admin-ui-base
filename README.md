@@ -1,4 +1,4 @@
-# ii-admin-base
+## lc-admin-ui-base
 
 lc-admin-ui-base(中后台基础组件库)，主要存放各个业务线都可复用的基础组件，[预览地址](https://lcyh.github.io/lc-admin-ui-base/)。
 
