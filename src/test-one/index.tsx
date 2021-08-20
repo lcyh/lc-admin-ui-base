@@ -11,7 +11,7 @@ export interface TestProps extends InputProps {}
  * ### 如何引用
  *
  * ~~~javascript
- * import { TestOne } from 'ii-admin-base'
+ * import { TestOne } from 'lc-admin-ui-base'
  * ~~~
  */
 export const TestOne: FC<TestProps> = props => {
